@@ -1,0 +1,156 @@
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfo.cs
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.exe
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.deps.json
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.json
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\ref\webAPI.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\staticwebassets\webAPI.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\staticwebassets\webAPI.StaticWebAssets.xml
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\scopedcss\bundle\webAPI.styles.css
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CopyComplete
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\ref\webAPI.dll
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\crudi 2\webAPI\webAPI\obj\Debug\net5.0\webAPI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.exe
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.deps.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\scopedcss\bundle\webAPI.styles.css
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\staticwebassets\webAPI.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CopyComplete
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\refint\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\ref\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.exe
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.deps.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\scopedcss\bundle\webAPI.styles.css
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\staticwebassets\webAPI.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CopyComplete
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\refint\webAPI.dll
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projektet-Rea Hoxha\CRUD i thjeshte\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\ref\webAPI.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.exe
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.deps.json
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.json
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\scopedcss\bundle\webAPI.styles.css
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\staticwebassets\webAPI.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.csproj.CopyComplete
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\refint\webAPI.dll
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.pdb
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\webAPI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projects - Rea Hoxha\Projects with CRUD\Project 1 with CRUD\CRUD project\CRUD I NGJYRAVE\CRUD I NGJYRAVE\webAPI\webAPI\obj\Debug\net5.0\ref\webAPI.dll
